@@ -1,3 +1,3 @@
 # 圆形图片
 
-![](https://github.com/xiyouMc/CircleImage/blob/master/image/shortcut.png?raw=true =200x200)
+![](https://github.com/xiyouMc/CircleImage/blob/master/image/shortcut.png?raw=true)
