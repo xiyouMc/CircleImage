@@ -1,3 +1,3 @@
 # 圆形图片
 
-[](./image/shortcut.png)
+![](https://github.com/xiyouMc/CircleImage/blob/master/image/shortcut.png?raw=true)
